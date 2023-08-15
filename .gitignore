@@ -5,3 +5,9 @@
 *.ilk
 *.o
 *.layout
+*.depend
+*.aux
+*.log
+*.toc
+*.gz
+*.cbp
