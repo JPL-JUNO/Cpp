@@ -12,3 +12,11 @@
 *.gz
 *.cbp
 *.out
+.vs
+CPPOH/CppProperties.json
+*.recipe
+x64
+*.vcxproj
+*.sln
+*.filters
+*.user
